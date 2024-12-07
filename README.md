@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @abditwayessa
-- 👀 I’m interested in web development
+- 👀 I’m interested in Android and web development
 - 🌱 I developed Patient Information Management System.
