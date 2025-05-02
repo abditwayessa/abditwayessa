@@ -7,7 +7,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abditwayessa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abditwayessa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)[
 ![](https://github-readme-stats.vercel.app/api?username=abditwayessa&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=abditwayessa&show_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![](https://github-readme-stats.vercel.app/api?username=abditwayessa&show_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=abditwayessa)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abditwayessa&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
 
