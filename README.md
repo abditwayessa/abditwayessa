@@ -4,7 +4,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abditwayessa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abditwayessa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abditwayessa&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
 
