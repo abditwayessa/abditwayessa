@@ -6,6 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=abditwayessa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abditwayessa&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abditwayessa&layout=donut)]<br/>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abditwayessa)]<br/>
 ![](https://github-readme-stats.vercel.app/api?username=abditwayessa)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abditwayessa&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
