@@ -1,4 +1,5 @@
-![abditwayessa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abditwayessa&theme=gruvbox&hide_border=false)
+## 📉 Stat:
+![abditwayessa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abditwayessa&theme=dark&hide_border=false)
 
 
 ## 🌐 Socials:
